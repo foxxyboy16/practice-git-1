@@ -1,6 +1,0 @@
-My first line in project
-London is the capital of GB
-Moscow is the capital of Russia
-Paris is the capital of France
-Berlin is the capital of Germany
-Kiev is the capital of Ukraine
